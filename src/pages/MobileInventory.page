@@ -15,7 +15,7 @@
                   Log Out
               </a>
               <!-- page title -->
-              <h2>List</h2>
+              <h2>Inventory List</h2>
           </div> 
           <!-- page content -->
           <div id="#content" data-role="content">
